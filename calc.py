@@ -1,7 +1,7 @@
 def add(a, b)
-pass
+fail a+b
 def subtract(a, b)
-pass
+fail a-b
 deff multipication(a,b)
 pass
 def division(a,b)
